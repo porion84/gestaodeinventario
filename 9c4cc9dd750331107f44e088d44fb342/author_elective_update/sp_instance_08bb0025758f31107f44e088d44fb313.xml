@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>newspaper-o</glyph>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">0549cced754f31107f44e088d44fb368</sp_column>
+        <sp_widget display_value="Knowledge Featured Articles">ba8d45ffdb50320099f93691f0b8f51b</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 04:06:51</sys_created_on>
+        <sys_id>08bb0025758f31107f44e088d44fb313</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_instance_08bb0025758f31107f44e088d44fb313</sys_update_name>
+        <sys_updated_by>paulo.orion</sys_updated_by>
+        <sys_updated_on>2023-12-11 04:58:11</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"table": {
+		"value": "kb_knowledge",
+		"displayValue": "Knowledge"
+	},
+	"display_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"max_records": {
+		"value": "",
+		"displayValue": ""
+	},
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_secondary_fields_label": {
+		"value": "",
+		"displayValue": ""
+	},
+	"knowledge_base": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=08bb0025758f31107f44e088d44fb313"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</application>
+        <file_path/>
+        <instance_id>b99a4104c3cbb110e1c44dadc001315b</instance_id>
+        <instance_name>nowlearning-nlinst01298655-0001</instance_name>
+        <name>sp_instance_08bb0025758f31107f44e088d44fb313</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;newspaper-o&lt;/glyph&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="2"&gt;0549cced754f31107f44e088d44fb368&lt;/sp_column&gt;&lt;sp_widget display_value="Knowledge Featured Articles"&gt;ba8d45ffdb50320099f93691f0b8f51b&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;paulo.orion&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-12-11 04:06:51&lt;/sys_created_on&gt;&lt;sys_id&gt;08bb0025758f31107f44e088d44fb313&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0"&gt;9c4cc9dd750331107f44e088d44fb342&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Gestão de Inventário"&gt;9c4cc9dd750331107f44e088d44fb342&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_08bb0025758f31107f44e088d44fb313&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;paulo.orion&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-12-11 04:58:11&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"table": {
+		"value": "kb_knowledge",
+		"displayValue": "Knowledge"
+	},
+	"display_field": {
+		"value": "",
+		"displayValue": ""
+	},
+	"secondary_fields": {
+		"value": "",
+		"displayValue": ""
+	},
+	"max_records": {
+		"value": "",
+		"displayValue": ""
+	},
+	"always_show": {
+		"value": "",
+		"displayValue": ""
+	},
+	"show_secondary_fields_label": {
+		"value": "",
+		"displayValue": ""
+	},
+	"knowledge_base": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=08bb0025758f31107f44e088d44fb313"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1965884837</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b4422555758331107f44e088d44fb357</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 04:58:11</sys_created_on>
+        <sys_id>8077506175cf31107f44e088d44fb30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c573d6a440000001</sys_recorded_at>
+        <sys_updated_by>paulo.orion</sys_updated_by>
+        <sys_updated_on>2023-12-11 04:58:11</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>88775061c3cf31104e9ed2dfb100220c</update_guid>
+        <update_guid_history>88775061c3cf31104e9ed2dfb100220c:1965884837,6e57d4ed5d8f3110e9f8a8914b3fff15:-5342336,d02c0ce1f38f3110d1a851d1b725de08:1965884837,6f0c80e1528f311093aeeb3dd06def12:-8869709,300c4425478f3110f6fdf09a7d07e63a:974866896,d0bb0025728f311090f67dfbf004f215:101890870</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">f2089c6175cf31107f44e088d44fb383</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 05:00:50</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>1417d5b6fd7e419c9dd0412585b3be64</sys_id>
+        <sys_metadata>08bb0025758f31107f44e088d44fb313</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_scope_delete display_value="">00eb959e35a34d7c800ca43b56faaf64</sys_scope_delete>
+        <sys_update_name>sp_instance_08bb0025758f31107f44e088d44fb313</sys_update_name>
+        <sys_update_version display_value="sp_instance_08bb0025758f31107f44e088d44fb313">8077506175cf31107f44e088d44fb30d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

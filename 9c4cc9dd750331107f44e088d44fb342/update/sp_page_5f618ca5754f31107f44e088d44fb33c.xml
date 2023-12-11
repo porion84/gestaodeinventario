@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>main.page, main.body {
+  height: 99vh;
+  min-height: 100%;
+  padding-top: 0px !important;
+}
+
+@media(max-width: 767px) {
+  main.page, main.body {
+    height: auto;
+  }
+}
+
+section.page {
+  //background-image: url('la_jolla_sp_login_background.png'); 
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #ffffff;
+}
+
+section.page main.body:before {
+  display: block;
+  background-color: #3A3F50;
+  opacity: 0.75;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>infostore_landing</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 03:22:01</sys_created_on>
+        <sys_id>5f618ca5754f31107f44e088d44fb33c</sys_id>
+        <sys_name>infostore_landing</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_page_5f618ca5754f31107f44e088d44fb33c</sys_update_name>
+        <title>InfoStore Home</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=5f618ca5754f31107f44e088d44fb33c"/>
+</record_update>

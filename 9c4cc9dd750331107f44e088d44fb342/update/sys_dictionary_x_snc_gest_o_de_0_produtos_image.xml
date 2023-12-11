@@ -2,7 +2,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="image" table="x_snc_gest_o_de_0_produtos">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true,pdf_cell_type=image</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
