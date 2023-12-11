@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Novo Pedido</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page/>
+        <sp_rectangle_menu display_value="InfoStore Header Menu">478ffb55754f31107f44e088d44fb370</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 03:19:45</sys_created_on>
+        <sys_id>2400c865754f31107f44e088d44fb330</sys_id>
+        <sys_name>Novo Pedido</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_2400c865754f31107f44e088d44fb330</sys_update_name>
+        <table/>
+        <type>url</type>
+        <url>https://nowlearning-nlinst01298655-0001.lab.service-now.com/infostore?id=form&amp;is_new_order=true&amp;table=Pedidos&amp;sys_id=-1</url>
+        <url_target/>
+    </sp_rectangle_menu_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=2400c865754f31107f44e088d44fb330"/>
+</record_update>

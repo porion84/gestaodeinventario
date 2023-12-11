@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="3">8d494461758f31107f44e088d44fb3b6</sp_column>
+        <sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 04:20:03</sys_created_on>
+        <sys_id>ddbe44e5758f31107f44e088d44fb320</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_instance_ddbe44e5758f31107f44e088d44fb320</sys_update_name>
+        <sys_updated_by>paulo.orion</sys_updated_by>
+        <sys_updated_on>2023-12-11 04:20:03</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ddbe44e5758f31107f44e088d44fb320"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</application>
+        <file_path/>
+        <instance_id>b99a4104c3cbb110e1c44dadc001315b</instance_id>
+        <instance_name>nowlearning-nlinst01298655-0001</instance_name>
+        <name>sp_instance_ddbe44e5758f31107f44e088d44fb320</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="3">8d494461758f31107f44e088d44fb3b6</sp_column><sp_widget display_value="Calculator">974a652347332100ba13a5554ee49089</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>paulo.orion</sys_created_by><sys_created_on>2023-12-11 04:20:03</sys_created_on><sys_id>ddbe44e5758f31107f44e088d44fb320</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope><sys_update_name>sp_instance_ddbe44e5758f31107f44e088d44fb320</sys_update_name><sys_updated_by>paulo.orion</sys_updated_by><sys_updated_on>2023-12-11 04:20:03</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=ddbe44e5758f31107f44e088d44fb320"/></record_update>]]></payload>
+        <payload_hash>1515239430</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b4422555758331107f44e088d44fb357</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 04:20:03</sys_created_on>
+        <sys_id>9dbe44e5758f31107f44e088d44fb322</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c571a7e6d0000001</sys_recorded_at>
+        <sys_updated_by>paulo.orion</sys_updated_by>
+        <sys_updated_on>2023-12-11 04:20:03</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>d5be44e5fc8f3110de2d130230aef422</update_guid>
+        <update_guid_history>d5be44e5fc8f3110de2d130230aef422:1515239430</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4ece84e5758f31107f44e088d44fb335</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 04:20:21</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>18010919ba314eafa8571af00aab6fc9</sys_id>
+        <sys_metadata>ddbe44e5758f31107f44e088d44fb320</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_scope_delete display_value="">00eb959e35a34d7c800ca43b56faaf64</sys_scope_delete>
+        <sys_update_name>sp_instance_ddbe44e5758f31107f44e088d44fb320</sys_update_name>
+        <sys_update_version display_value="sp_instance_ddbe44e5758f31107f44e088d44fb320">9dbe44e5758f31107f44e088d44fb322</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

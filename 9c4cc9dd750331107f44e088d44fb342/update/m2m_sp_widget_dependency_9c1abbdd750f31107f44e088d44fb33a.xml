@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_widget_dependency">
+    <m2m_sp_widget_dependency action="INSERT_OR_UPDATE">
+        <sp_dependency display_value="angular-truncate">09e1f1416712220023c82e08f585ef1e</sp_dependency>
+        <sp_widget display_value="InfoStore Header Menu">141ab75d750f31107f44e088d44fb3ff</sp_widget>
+        <sys_class_name>m2m_sp_widget_dependency</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 02:49:52</sys_created_on>
+        <sys_id>9c1abbdd750f31107f44e088d44fb33a</sys_id>
+        <sys_name>angular-truncate.Copy of Header Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>m2m_sp_widget_dependency_9c1abbdd750f31107f44e088d44fb33a</sys_update_name>
+    </m2m_sp_widget_dependency>
+</record_update>

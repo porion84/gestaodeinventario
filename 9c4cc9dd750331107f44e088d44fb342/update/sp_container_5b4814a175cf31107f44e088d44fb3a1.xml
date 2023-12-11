@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>homepage-quicklinks</class_name>
+        <container_class_name/>
+        <name>Copy of Home Page (1) - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="copy_of_index_1">5b4890a175cf31107f44e088d44fb303</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 05:01:57</sys_created_on>
+        <sys_id>5b4814a175cf31107f44e088d44fb3a1</sys_id>
+        <sys_name>Copy of Home Page (1) - Container 3</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_container_5b4814a175cf31107f44e088d44fb3a1</sys_update_name>
+        <title>Quick Links</title>
+        <width>container</width>
+    </sp_container>
+</record_update>

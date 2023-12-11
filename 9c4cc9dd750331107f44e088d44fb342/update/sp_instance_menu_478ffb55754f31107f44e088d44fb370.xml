@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>paulo.orion</sys_created_by>
+        <sys_created_on>2023-12-11 03:14:20</sys_created_on>
+        <sys_id>478ffb55754f31107f44e088d44fb370</sys_id>
+        <sys_name>InfoStore Header Menu</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_snc_gest_o_de_0">9c4cc9dd750331107f44e088d44fb342</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">9c4cc9dd750331107f44e088d44fb342</sys_scope>
+        <sys_update_name>sp_instance_menu_478ffb55754f31107f44e088d44fb370</sys_update_name>
+        <title>InfoStore Header Menu</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="delete_multiple" query="documentkey=478ffb55754f31107f44e088d44fb370"/>
+</record_update>
